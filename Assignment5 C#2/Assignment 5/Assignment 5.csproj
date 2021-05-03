@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Assignment_5</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\flying.jpg" />
+    <None Remove="Images\landing.jpg" />
+    <None Remove="Images\plane.png" />
+    <None Remove="Images\senttorunway.png" />
+    <None Remove="Images\started.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\flying.jpg" />
+    <Resource Include="Images\landing.jpg" />
+    <Resource Include="Images\plane.png" />
+    <Resource Include="Images\senttorunway.png" />
+    <Resource Include="Images\started.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\bin\Debug\netcoreapp3.1\File Duplicate Finder.exe
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\bin\Debug\netcoreapp3.1\File Duplicate Finder.deps.json
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\bin\Debug\netcoreapp3.1\File Duplicate Finder.runtimeconfig.json
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\bin\Debug\netcoreapp3.1\File Duplicate Finder.runtimeconfig.dev.json
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\bin\Debug\netcoreapp3.1\File Duplicate Finder.dll
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\bin\Debug\netcoreapp3.1\File Duplicate Finder.pdb
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.csprojAssemblyReference.cache
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder_MarkupCompile.cache
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder_MarkupCompile.lref
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.g.resources
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.AssemblyInfoInputs.cache
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.AssemblyInfo.cs
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.dll
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.pdb
+C:\Users\alexh\source\repos\C#2\Assignment6 C#2\File Duplicate Finder\obj\Debug\netcoreapp3.1\File Duplicate Finder.genruntimeconfig.cache

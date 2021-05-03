@@ -1,0 +1,42 @@
+﻿<Window x:Class="File_Duplicate_Finder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:File_Duplicate_Finder"
+        mc:Ignorable="d"
+        Title="Duplicate Finder" Height="510" Width="600" MinHeight="510" MinWidth="600" ResizeMode="CanMinimize">
+    <Grid>
+        <Border BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,118" MinWidth="160">
+            <Grid>
+                <Label x:Name="whatToConsiderLabel" Content="What to consider" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,0,0,0"/>
+                <CheckBox x:Name="dateCreatedCheckBox" Content="Date Created" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <CheckBox x:Name="dateModifiedCheckBox" Content="Date Modified" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <CheckBox x:Name="sizeCheckBox" Content="Size" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <CheckBox x:Name="fileTypesCheckBox" Content="File Type (.txt, .png, *.*)" HorizontalAlignment="Left" Margin="10,135,0,10" VerticalAlignment="Top" IsChecked="True"/>
+            </Grid>
+        </Border>
+
+        <Label x:Name="welcomeLabel" Content="Welcome to the Duplicate File Finder!" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+        <Border BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 50, 0, 0">
+            <Grid>
+                <Label x:Name="selectedFolderLabel" Content="Selected folder" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+                <TextBox x:Name="selectedFolderTextBox" HorizontalAlignment="Left" Margin="10,40,80,10" VerticalAlignment="Top" Width="300"/>
+                <Button x:Name="browseFolderButton" Content="Browse..." HorizontalAlignment="Right" Margin="10,40,10,10" VerticalAlignment="Top" Click="browseFolderButton_Click"/>
+                <Button x:Name="addFolderButton" Content="Add folder" HorizontalAlignment="Left" Margin="10,70,10,10" VerticalAlignment="Top" Width="120" Height="25" Click="addFolderButton_Click"/>
+            </Grid>
+        </Border>
+
+        <Label x:Name="listBoxTitleLabel" Content="Selected folders:" HorizontalAlignment="Right" Margin="0,9,63,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="selectedFoldersListBox" HorizontalAlignment="Right" VerticalAlignment="Top" MinHeight="100" MinWidth="150" MaxHeight="100" MaxWidth="150" Margin="0,40,10,0" Width="149" Height="62"/>
+        <Button x:Name="removeFolderButton" Content="Remove folder" HorizontalAlignment="Right" Margin="0,145,10,0" VerticalAlignment="Top" Height="30" Width="150" Click="removeFolderButton_Click"/>
+        <Button x:Name="searchButton" Content="Search selected folders" HorizontalAlignment="Right" Margin="0,180,10,0" VerticalAlignment="Top" Height="30" Width="150" Click="searchButton_Click"/>
+
+        <Label x:Name="treeviewTitleLabel" Content="Found Duplicates:" HorizontalAlignment="Right" Margin="0,0,303,255" VerticalAlignment="Bottom"/>
+        <TreeView x:Name="treeView" Margin="0,0,10,10" HorizontalAlignment="Right" VerticalAlignment="Bottom" MinHeight="240" MinWidth="390" MaxHeight="240" MaxWidth="390"/>
+        <Button x:Name="deleteSelectedFilesButton" Content="DELETE SELECTED FILES" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Height="62" Width="160" Background="Red" Foreground="Black" Click="deleteSelectedFilesButton_Click"/>
+
+
+    </Grid>
+</Window>

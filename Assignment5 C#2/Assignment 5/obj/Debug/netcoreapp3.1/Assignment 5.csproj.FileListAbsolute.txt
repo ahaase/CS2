@@ -1,0 +1,46 @@
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.exe
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.deps.json
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.runtimeconfig.json
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.runtimeconfig.dev.json
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.dll
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.pdb
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.csprojAssemblyReference.cache
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\ControlTowerWindow.g.cs
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\FlightWindow.g.cs
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5_MarkupCompile.cache
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5_MarkupCompile.lref
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\ControlTowerWindow.baml
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\FlightWindow.baml
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.g.resources
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.AssemblyInfoInputs.cache
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.AssemblyInfo.cs
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.dll
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.pdb
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.genruntimeconfig.cache
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\LogWindow.g.cs
+C:\Users\alexh\source\repos\Assignment 5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\LogWindow.baml
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.exe
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.deps.json
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.runtimeconfig.json
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.runtimeconfig.dev.json
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.dll
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.pdb
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.csprojAssemblyReference.cache
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\ControlTowerWindow.g.cs
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\FlightWindow.g.cs
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\LogWindow.g.cs
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5_MarkupCompile.cache
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5_MarkupCompile.lref
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\ControlTowerWindow.baml
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\FlightWindow.baml
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\LogWindow.baml
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.g.resources
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.AssemblyInfoInputs.cache
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.AssemblyInfo.cs
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.dll
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.pdb
+C:\Users\alexh\source\repos\Assignment5 C#2\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Assignment_5.ControlTowerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_5"
+        mc:Ignorable="d"
+        Title="Control Tower" Height="450" Width="500"
+        ResizeMode="CanMinimize">
+    <Grid>
+        <ListView x:Name="listView" Margin="10,10,10,38" MouseDoubleClick="listView_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Flight Code" Width="130" DisplayMemberBinding="{Binding FlightCode}"/>
+                    <GridViewColumn Header="Status" Width="210" DisplayMemberBinding="{Binding StatusString}"/>
+                    <GridViewColumn Header="Time" Width="130" DisplayMemberBinding="{Binding Time}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="nextFlightLabel" Content="Next Flight:" HorizontalAlignment="Left" Margin="10,0,0,6" VerticalAlignment="Bottom" RenderTransformOrigin="-3.616,0.533"/>
+        <TextBox x:Name="nextFlightTextBox" HorizontalAlignment="Left" Margin="95,0,0,10" Text="" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="115"/>
+        <Button x:Name="sendNextAirplaneButton" Content="Send next Airplane to Runway" HorizontalAlignment="Right" Margin="0,0,90,10" VerticalAlignment="Bottom" Width="172" Click="sendNextAirplaneButton_Click"/>
+        <Button x:Name="viewLogButton" Content="View Log" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="70" Click="viewLogButton_Click"/>
+
+    </Grid>
+</Window>
